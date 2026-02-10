@@ -24,8 +24,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ameymn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ameymn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Visit tracker](https://mapmyvisitors.com/map.png?d=49jip_kD2XT3Qi3ZbPIpE_jUnQit8xIRvCLQ5-Wxr5k&cl=ffffff)](https://mapmyvisitors.com/web/1bzb3)
+
 ---
 [![](https://komarev.com/ghpvc/?username=amey-m&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
-<script src="https://cdn.counter.dev/script.js" data-id="dfca7c6b-664c-4b60-a187-7132223f6759" data-utcoffset="-5"></script>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
