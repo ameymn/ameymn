@@ -28,5 +28,6 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=amey-m&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+<script src="https://cdn.counter.dev/script.js" data-id="dfca7c6b-664c-4b60-a187-7132223f6759" data-utcoffset="-5"></script>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
